@@ -25,7 +25,7 @@ There are two directories included; a scene without the BSP tree and one with th
 You can compile and run the scene by entering the command below.
 ```
 make
-make run
+make run_viewer
 ```
 
 Once the window is opened, it takes up to one minute to build a BSP tree, so don't be afraid that the process has been aborted.
